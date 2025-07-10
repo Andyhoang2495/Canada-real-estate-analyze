@@ -1,6 +1,6 @@
 # canada-real-estate
 ## Project Overview
-###Objective of the analytic project
+### Objective of the analytic project
 This project focuses on analyzing the real estate in Ontario 
 
 ### Context of analysis
